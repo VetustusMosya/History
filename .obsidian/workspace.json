@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "e49ebb1b4a4626b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b4abf358d0909e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00e378271a5438f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "КОРОЛИ ФРАНЦИИ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "КОРОЛИ ФРАНЦИИ"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "87108efd073e3472",
+    "type": "split",
+    "children": [
+      {
+        "id": "a16ba6ba155916e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5d903406f290783",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "4644dfd4ce7816f7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "1d1e54e324c5e863",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6c5401fe408594ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4960fe07e787303",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e532acf6f11b86f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "КОРОЛИ ФРАНЦИИ.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для КОРОЛИ ФРАНЦИИ"
+            }
+          },
+          {
+            "id": "dce17583cefcb644",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "создайте ссылку.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из создайте ссылку"
+            }
+          },
+          {
+            "id": "86805c4c3fc1c699",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "b6f069ea192d90b1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "39f04b3daadc4050",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "создайте ссылку.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура создайте ссылку"
+            }
+          },
+          {
+            "id": "e4196cc0ff39224a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "d5d903406f290783",
+  "lastOpenFiles": [
+    "Текстовый документ.txt",
+    "Альбигойский крестовый поход.md",
+    "Англо-французская война.md",
+    "КОРОЛИ ФРАНЦИИ.md",
+    "Англо-французская война (1203-1217).md",
+    "Карты/Франция в 1180.png",
+    "Pasted image 20260527130847.png",
+    "Pasted image 20260527130815.png",
+    "Карты/Франция в 1030г.png",
+    "Без названия.canvas",
+    "Карты/Верденский договор 843.png",
+    "Карты/Расширение Франкской империи в 481-814.png",
+    "Карты/Галлия в 481 году.png",
+    "Markdown.md",
+    "Таблица.base",
+    "создайте ссылку.md",
+    "Карты",
+    "Pasted image 20260527120507.png",
+    "Табло.canvas",
+    "Добро пожаловать.md"
+  ]
+}

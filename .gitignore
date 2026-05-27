@@ -1,0 +1,19 @@
+# Кэш интерфейса Obsidian (не синхронизировать)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/app.json
+
+# Опционально: игнорировать все плагины (если они персональные)
+.obsidian/plugins/
+
+# Игнорировать темы (если меняете их вручную на каждом устройстве)
+.obsidian/themes/
+
+# Системные файлы ОС
+.DS_Store
+Thumbs.db
+.directory
+
+# Файлы IDE
+.vscode/
+.idea/
