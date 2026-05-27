@@ -1,3 +1,6 @@
 {
-  "cssTheme": "Tokyo Night"
+  "cssTheme": "Dracula Official",
+  "showRibbon": true,
+  "baseFontSizeAction": true,
+  "nativeMenus": false
 }
