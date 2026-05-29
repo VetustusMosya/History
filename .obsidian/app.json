@@ -3,5 +3,8 @@
   "alwaysUpdateLinks": true,
   "showInlineTitle": true,
   "spellcheck": true,
-  "openBehavior": ""
+  "openBehavior": "",
+  "propertiesInDocument": "source",
+  "readableLineLength": false,
+  "foldHeading": false
 }
