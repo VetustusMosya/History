@@ -3,5 +3,8 @@
   "showRibbon": true,
   "baseFontSizeAction": true,
   "nativeMenus": false,
-  "baseFontSize": 16
+  "baseFontSize": 16,
+  "enabledCssSnippets": [
+    "indent"
+  ]
 }

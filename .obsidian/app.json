@@ -6,5 +6,7 @@
   "openBehavior": "",
   "propertiesInDocument": "source",
   "readableLineLength": false,
-  "foldHeading": false
+  "foldHeading": true,
+  "livePreview": true,
+  "showLineNumber": false
 }

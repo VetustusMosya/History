@@ -1,0 +1,4 @@
+.el-p,
+.cm-line:not(.HyperMD-header):not(.HyperMD-list-line) {
+  text-indent: 20px;
+}

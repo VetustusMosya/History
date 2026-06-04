@@ -1,6 +1,8 @@
 [
-  "editing-toolbar",
   "obsidian-git",
   "obsidian-icon-folder",
-  "obsidian-smart-typography"
+  "obsidian-smart-typography",
+  "editing-toolbar",
+  "obsidian-image-toolkit",
+  "obsidian-excalidraw-plugin"
 ]
