@@ -34,6 +34,13 @@
         "a": 1,
         "rgb": 16514816
       }
+    },
+    {
+      "query": "tag:#италия  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
     }
   ],
   "collapse-display": true,
@@ -46,6 +53,6 @@
   "repelStrength": 8.54166666666667,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7132754626224413,
+  "scale": 0.7132754626224407,
   "close": true
 }
