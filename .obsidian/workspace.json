@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ФРАНЦИЯ.md",
+                "file": "Страны/ФРАНЦИЯ.md",
                 "mode": "source",
                 "source": false
               },
@@ -24,45 +24,69 @@
             }
           },
           {
-            "id": "b0cffb79f9ec48c5",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
-            }
-          },
-          {
             "id": "fc560ed8a5d54439",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Габсбурги.md",
+                "file": "Семьи и люди/Семьи Италии.md",
                 "mode": "source",
                 "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Семьи Италии"
+            }
+          },
+          {
+            "id": "cc54cdf089597b33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Семьи и люди/Габсбурги.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "Габсбурги"
             }
           },
           {
-            "id": "369934399687ed33",
+            "id": "47b969e57dc207fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "ВАЖНЫЕ ДАТЫ.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "ВАЖНЫЕ ДАТЫ"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -121,13 +145,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Семьи и люди/Семьи северной Италии.md",
+                "file": "ВАЖНЫЕ ДАТЫ.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Семьи северной Италии"
+              "title": "Структура ВАЖНЫЕ ДАТЫ"
             }
           },
           {
@@ -145,7 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 200
   },
   "right": {
     "id": "6c5401fe408594ad",
@@ -161,6 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ВАЖНЫЕ ДАТЫ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +195,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Обратные ссылки для ВАЖНЫЕ ДАТЫ"
             }
           },
           {
@@ -179,11 +204,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ВАЖНЫЕ ДАТЫ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки"
+              "title": "Исходящие ссылки из ВАЖНЫЕ ДАТЫ"
             }
           },
           {
@@ -236,14 +262,25 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "b0cffb79f9ec48c5",
+  "active": "47b969e57dc207fb",
   "lastOpenFiles": [
-    "Войны/Итальянские войны.md",
-    "ФРАНЦИЯ.md",
-    "Габсбурги.md",
-    "Аttachments/Генеалогические деревья/Габсбурги.jpg",
-    "Семьи и люди/Семьи Италии.md",
+    "Страны/ФРАНЦИЯ.md",
     "ВАЖНЫЕ ДАТЫ.md",
+    "Семьи и люди/Габсбурги.md",
+    "Страны",
+    "Семьи и люди/Семьи Италии.md",
+    "Войны/Итальянские войны.md",
+    "Аttachments/Испанская терция.png",
+    "Войны/Анжуйская война.md",
+    "Семьи и люди/Гонсало де Кордова.md",
+    "Революции",
+    "Семьи и люди/Фридрих Барбаросса.md",
+    "Страны/АНГЛИЯ.md",
+    "Значимые события/Американская революция.md",
+    "Значимые события/Английская буржуазная революция.md",
+    "Войны/Война Алой и Белой розы.md",
+    "Войны/Война Сицилийской вечерни.md",
+    "Аttachments/Генеалогические деревья/Габсбурги.jpg",
     "Аttachments/Карты/Итальянский поход Карла VIIII.png",
     "Аttachments/Гербы/Герб Трастамара.png",
     "Аttachments/Карты/Первая Итальянская война.png",
@@ -252,14 +289,11 @@
     "Аttachments/Битвы",
     "Аttachments/Карты/Битва при Форново.png",
     "Аttachments/Карты/Италия 1499.png",
-    "Войны/Война Сицилийской вечерни.md",
     "Аttachments/Генеалогические деревья/Короли Франции.jpg",
     "Аttachments/Гербы/Герб Борджиа.png",
     "Аttachments/Гербы/Герб Медичи.png",
-    "Аttachments/Гербы/Герб Сфорца.png",
     "Аttachments",
     "Семьи и люди",
-    "АНГЛИЯ.md",
     "Markdown.md",
     "Войны/Фландрская война.md",
     "Генеалогические деревья/Гис МакГиган  Дороти. Габсбурги. Блеск и нищета одной королевской династии - royallib.com.fb2.zip",
@@ -270,17 +304,12 @@
     "Войны/Война арманьяков и бургиньонов.md",
     "Карл II Злой.md",
     "gv_2008_44.pdf",
-    "Не подтвержден 596802.crdownload",
-    "Войны/Англо-французская война.md",
     "Войны/Альбигойский крестовый поход.md",
-    "Значимые события",
     "Значимые события/Авиньонское пленение пап.md",
     "().md",
     "732.md",
     "Англо-французская война (1203-1217).md",
     "Без названия.canvas",
-    "создайте ссылку.md",
-    "Табло.canvas",
-    "Добро пожаловать.md"
+    "Табло.canvas"
   ]
 }

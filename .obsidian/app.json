@@ -8,5 +8,6 @@
   "readableLineLength": false,
   "foldHeading": true,
   "livePreview": true,
-  "showLineNumber": false
+  "showLineNumber": false,
+  "strictLineBreaks": true
 }
