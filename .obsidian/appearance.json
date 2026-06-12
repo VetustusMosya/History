@@ -4,7 +4,5 @@
   "baseFontSizeAction": true,
   "nativeMenus": false,
   "baseFontSize": 16,
-  "enabledCssSnippets": [
-    "indent"
-  ]
+  "enabledCssSnippets": []
 }

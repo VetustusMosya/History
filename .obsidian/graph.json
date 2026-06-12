@@ -41,6 +41,20 @@
         "a": 1,
         "rgb": 5431473
       }
+    },
+    {
+      "query": "tag:#испания  ",
+      "color": {
+        "a": 1,
+        "rgb": 16756224
+      }
+    },
+    {
+      "query": "path:\"Семьи и люди\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
     }
   ],
   "collapse-display": true,
@@ -49,10 +63,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": true,
-  "centerStrength": 0.286458333333333,
-  "repelStrength": 8.54166666666667,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.7132754626224396,
+  "centerStrength": 0.322916666666667,
+  "repelStrength": 10.2083333333333,
+  "linkStrength": 0.53125,
+  "linkDistance": 194,
+  "scale": 0.7132754626224388,
   "close": true
 }
